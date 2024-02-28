@@ -85,6 +85,10 @@ main {
       }
     }
   }
+  ol li::marker {
+    font-weight: 800;
+    color: $Nutmeg;
+  }
   div.table {
     margin-top: 10px;
     div.table_row {
